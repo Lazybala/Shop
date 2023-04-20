@@ -1,1 +1,2 @@
-# https://lazybala.github.io/Shop/
+# Shop
+https://lazybala.github.io/Shop/
